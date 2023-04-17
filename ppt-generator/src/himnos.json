@@ -1,0 +1,25 @@
+[
+    {   "name": "Las primicias del dia",
+        "content":{
+        "1":"Me despierto con ganas de verlo. Las primicias del dia le doy. Comenzar con el rey me anima. \"Confesarle señor tuyo soy\" ",
+        "2":"Un momento contigo es oro. Conversar con el rey es mi honor. Me impartes tu sabiduria. Me inspira tu carta de amor",
+        "3": "Yo te doy este dia señor. Yo te doy esta vida señor. De tu mano yo quiero seguir. Controlado por ti al vivir"
+        }},
+    {   "name": "Santo, Santo, Santo",
+        "content":{
+        "1":"Quiero alabarte mas y mas aun. Quiero alabarte, mas y mas aun. Buscar tu voluntad, tu gracia. conocer, quiero alabarte",
+        "2":"Quiero alabarte mas y mas aun. Quiero alabarte, mas y mas aun. Buscar tu voluntad, tu gracia. conocer, quiero alabarte",
+        "3": "Quiero alabarte mas y mas aun. Quiero alabarte, mas y mas aun. Buscar tu voluntad, tu gracia. conocer, quiero alabarte"
+        }},
+    {   "name": "3",
+        "content":{
+        "1":"Me despierto con ganas de verlo. Las primicias del dia le doy. Comenzar con el rey me anima. \"Confesarle señor tuyo soy\" ",
+        "2":"Un momento contigo es oro. Conversar con el rey es mi honor. Me impartes tu sabiduria. Me inspira tu carta de amor",
+        "3": "Yo te doy este dia señor. Yo te doy esta vida señor. De tu mano yo quiero seguir. Controlado por ti al vivir"
+        }},
+    {   "name": "Cena",
+        "content":{
+        "1":"Cena"
+        }
+    }
+]
