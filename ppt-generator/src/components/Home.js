@@ -1,14 +1,15 @@
 //Plain home page component
 import React from 'react';
+import YoutubeEmbed from './YoutubeVideo';
+import '../styles/Home.css';
 
 function Home() {
   return (
     <div className="home">
-      <h1 className="text-2xl font-semibold mb-4">Welcome to Caballito PPT Generator!</h1>
-      <p>
-        This is a simple web app that generates a PowerPoint presentation with images of horses.
-      </p>
-      <p>Click on the "PPT Generator" link in the navigation bar to get started.</p>
+      <div className="App">
+        <h1>Youtube Embed</h1>
+          <YoutubeEmbed embedId="_LVSVGwlPKk" />
+      </div>
     </div>
   );
 }

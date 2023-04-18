@@ -24,6 +24,9 @@ function App() {
         <div className="burger-btn" onClick={() => setMenuActive(!menuActive)}>
           <span />
         </div>
+        <div className="title">
+          Iglesia de Cristo Caballito
+        </div>
       </nav>
 
       <Menu
@@ -35,8 +38,6 @@ function App() {
 
       <div>
         <BrowserRouter>
-
-
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/home" element={<Home />} />
